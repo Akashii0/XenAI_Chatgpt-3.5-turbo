@@ -8,6 +8,7 @@ while true:
   break
 else:
   chat_log.append({"role": "user", "content": user_message})
+  response = openai.chat.completions.create()
 
 
 
