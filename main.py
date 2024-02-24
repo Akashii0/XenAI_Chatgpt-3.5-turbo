@@ -6,7 +6,7 @@ chat_log = []
 while true:
   user_message = input("User: ")
   break
-
+else:
 
 
 
