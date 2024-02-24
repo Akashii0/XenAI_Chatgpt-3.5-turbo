@@ -7,7 +7,7 @@ while true:
   user_message = input("User: ")
   break
 else:
-
+  chat_log
 
 
 
