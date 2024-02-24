@@ -7,7 +7,7 @@ while true:
   user_message = input("User: ")
   break
 else:
-  chat_log
+  chat_log.append({"role": "user", "content": user_message})
 
 
 
