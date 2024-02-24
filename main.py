@@ -9,7 +9,7 @@ while true:
 else:
   chat_log.append({"role": "user", "content": user_message})
   response = openai.chat.completions.create(
-    
+     model = "gpt-3.5-turbo",
   )
 
 
