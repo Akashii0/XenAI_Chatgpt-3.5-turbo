@@ -14,7 +14,7 @@ else:
   )
   #assistant_response = response['choices'][0]['message']['content']
   assistant_response = response.choices[0].message.content
-
+  #print(response)
 
 
 
