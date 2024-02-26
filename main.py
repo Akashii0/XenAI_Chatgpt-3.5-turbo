@@ -13,7 +13,7 @@ else:
      messages = chatlog
   )
   #assistant_response = response['choices'][0]['message']['content']
-
+  assistant_response = response.choices[0].message.content
 
 
 
