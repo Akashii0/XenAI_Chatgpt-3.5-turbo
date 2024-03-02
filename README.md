@@ -2,4 +2,4 @@
 
 To run virtual environment:
 Set environment variable in the current session: To set the environment variable in the current session, use the command below 
-
+setx OPENAI_API_KEY "your-api-key-here"
