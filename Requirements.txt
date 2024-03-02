@@ -1,5 +1,5 @@
 Requirements:
 pip install python,openai
-pip install --upgrade python
+if python is already installed: pip install --upgrade python
 pip install openai
 pip3 install openai 
